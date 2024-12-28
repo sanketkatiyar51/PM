@@ -1,4 +1,4 @@
 # git-test
 First git repository
 <br>
-Author -- Sanket Katiyar
+Author -- Sanket Katiyar Test VS
